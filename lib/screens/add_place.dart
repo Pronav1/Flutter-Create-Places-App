@@ -23,6 +23,8 @@ class _AddScreenState extends ConsumerState<AddScreen> {
     if (_titleController.text.isNotEmpty && _selectedImage != null) {
       ref.read(userPlacesProvider.notifier).addPlace(
             _titleController.text,
+            _selectedImage!,
+            _selectedLocation!
           );
 
       Navigator.of(context).pop();
