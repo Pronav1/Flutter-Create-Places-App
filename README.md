@@ -11,7 +11,6 @@ Developed a location-aware mobile application that allows users to save and trac
 <img width="1920" height="877" alt="image" src="https://github.com/user-attachments/assets/5b924bc4-4ce0-42d5-a9f8-2a1180c8c39b" />
 
 
-<img width="3" height="2" alt="image" src="https://github.com/user-attachments/assets/8829ac7d-7dac-4c27-b23b-5554f5a4859c" />
 
 
-![Uploading image.png…]()
+
